@@ -66,7 +66,6 @@
                         @endforeach
                     </dl>
                 @endif
-
                 <p class="mt-6 rounded-lg bg-brand-50 p-4 text-sm text-brand-600 dark:bg-brand-500/15 dark:text-brand-400">
                     Para firmar el libro de socios, reserva una cita desde tu cuenta una vez aprobada tu documentación.
                 </p>
