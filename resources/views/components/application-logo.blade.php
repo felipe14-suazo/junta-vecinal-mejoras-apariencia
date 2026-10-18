@@ -1,0 +1,1 @@
+<span {{ $attributes->class(['inline-flex items-center gap-3 text-xl font-semibold text-gray-900 dark:text-white']) }}><span class="flex h-12 w-12 items-center justify-center rounded-xl bg-brand-500 text-white" aria-hidden="true">JV</span><span>JJVV Digital</span></span>
